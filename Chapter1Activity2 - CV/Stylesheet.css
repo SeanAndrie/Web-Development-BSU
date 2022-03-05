@@ -1,0 +1,91 @@
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+p{
+    font-family: 'JetBrains Mono', monospace;
+    padding: 10px 50px 10px;
+    color: white;
+    text-align: justify;
+}
+
+h2, h3{
+    color: white;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+body{
+    background-color: rgba(34,35,35,255);
+    overflow-y: scroll;
+}
+
+.box1{
+    margin: 50px 600px 0px;
+}
+
+.box2{
+    margin: 0px 600px 0px;
+}
+
+.box3{
+    margin: 0px 600px 0px;
+}
+
+.line{
+    width: 700px;
+    height: 47px;
+    border-bottom: 1px solid white;
+    text-align: center;
+}
+
+table{
+    color: white;
+    border-collapse: separate;
+    font-family: 'JetBrains Mono', monospace;
+    width: 100%;
+}
+
+td, th{
+    border: 1px solid white;
+    text-align: left;
+    padding: 5px;
+}
+
+tr{
+    border: 1px white;
+}
+
+.sidebar{
+    top: 50%;
+    left: 25%;
+    position:fixed;
+    background-color: rgb(90, 87, 87);
+    padding: auto;
+    border-radius: 10%;
+    
+}
+
+.column{
+    padding: 20px;
+}
+
+.box4{
+    margin: 0px 600px 0px;
+}
+
+li{
+    color: white;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.back{
+    bottom: 100px;
+    left: 497px;
+    position: fixed;
+    padding:auto;
+}
